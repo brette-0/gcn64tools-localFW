@@ -8,6 +8,10 @@ Project homepage: [Tools for the 3rd generation of raphnet GC/N64 to USB adapter
 
 This project began as a tool to configure GC/N64 to USB adapters, but it has evolved to support all recent raphnet USB adapter products.
 
+This Fork adds the option to install locally acccessed Firmware files, for obvious reasons this could lead to unexpected or incorrect behavior with your raphnet products.
+
+As of writing this, all raphnet products latest firmware can be accsessed via the original unmodified raphent firmware utility, only use this tool should you need custom firmware functionality.
+
 ## License
 
 The project is released under the General Public License version 3.
